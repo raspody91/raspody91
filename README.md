@@ -13,7 +13,11 @@ mostly i love creating website, as i am graphic designer too, and i can do uniqu
 - 💬 Ask me about anything in my codes, i will try to answer
 - 
 - 😄 Pronouns: he/him
-- 
+
+- my works - 
+- [SImpleAI](https://github.com/raspody91/SimpleAi)
+- [A website](https://github.com/raspody91/website)
+- [a game](https://github.com/raspody91/Game)
 # - to reach me you can text me on
 ## gmail - qinqladzetazo91@gmail.com
 ## telegram - raspody
