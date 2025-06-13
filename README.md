@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 my name is tazo
+
 i reply fast when DM'ed on social medias
+
 i am good with time management, even though sometimes i procrastinate
+
 i can adapt to your style as much as possible it is for me
 
 
