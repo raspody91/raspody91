@@ -27,5 +27,4 @@ mostly i love creating website, as i am graphic designer too, and i can do uniqu
 - [a game](https://github.com/raspody91/Game)
 # - to reach me you can text me on
 ## gmail - qinqladzetazo91@gmail.com
-## telegram - raspody
-## Instagram - raspody21
+
