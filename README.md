@@ -11,7 +11,7 @@ i can adapt to your style as much as possible it is for me
 
 im python developer, i love coding and am currently learning, being a begginer in a school
 
-- 🌱 I’m currently learning AI, web, and 2d games, you can see my results on my page, as i already uploaded all 3 of my projects
+- 🌱 I’m currently learning web, front end and tailwind
 
 i use github to upload my works, and to see others, so i can study, learn and practice
 
